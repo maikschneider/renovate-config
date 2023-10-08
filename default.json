@@ -17,7 +17,6 @@
 		"maikschneider"
 	],
 	"commitBodyTable": true,
-	"commitMessageTopic": "{{depName}}",
 	"composerIgnorePlatformReqs": null,
 	"configMigration": true,
 	"lockFileMaintenance": {
