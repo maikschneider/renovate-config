@@ -10,8 +10,10 @@
 		":label(dependencies)",
 		":rebaseStalePrs",
 		":separateMajorReleases",
-		"group:recommended"
+		"group:recommended",
+        "schedule:nonOfficeHours"
 	],
+    "timezone": "Europe/Berlin",
 	"assignees": [
 		"maikschneider"
 	],
