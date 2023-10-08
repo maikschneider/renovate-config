@@ -9,7 +9,6 @@
 		":ignoreModulesAndTests",
 		":label(dependencies)",
 		":rebaseStalePrs",
-		":semanticCommitsDisabled",
 		":separateMajorReleases",
 		"group:recommended"
 	],
