@@ -12,6 +12,16 @@
 			"rangeStrategy": "widen"
 		},
 		{
+			"groupName": "typo3 packages",
+			"groupSlug": "typo3",
+			"matchDatasources": [
+				"packagist"
+			],
+			"matchPackagePatterns": [
+				"typo3/cms-"
+			]
+		},
+		{
 			"description": "Disable Renovate for all fixture extensions used in functional tests",
 			"extends": [
 				":disableRenovate"

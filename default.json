@@ -38,6 +38,12 @@
 				"php"
 			],
 			"rangeStrategy": "widen"
+		},
+		{
+			"groupName": "node dependencies",
+			"matchDatasources": [
+				"npm"
+			]
 		}
 	],
 	"platformAutomerge": true,
